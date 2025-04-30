@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 29:04:2025
-## Register Number : 212223220105
-## Name : SHANMUGAKARTHIK G
+# Date: 30:04:2025
+## Register Number : 212223230116
+## Name : Mahalakshmi R
 
 ## Project: Railway Station Smart Navigation System (RSNS)
 # Problem Statement
