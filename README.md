@@ -122,4 +122,4 @@ Inclusive design for disabled passengers,
 
 Real-time dynamic updates,
 
-and integration with existing railway apps — making travel easier, faster, and smarter.
+and integration with existing railway apps — making travel easier, faster, and smarter
